@@ -4,6 +4,6 @@
 # Content of the Notebook
 * Introduction
 * A traditional machine learning model: Logistic Regression Classifier
- > Classical representation of the Logistic Regression
- > Neural network representation
- > Calibration process
+ - Classical representation of the Logistic Regression
+ - Neural network representation
+ - Calibration process
