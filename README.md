@@ -7,6 +7,10 @@
 
   - Classical representation of the Logistic Regression
   - Neural network representation
-  - Calibration process
+  - Learning process: Batch Gradient descent
  
 * Multilayer Neuron Network
+  - Feed forward Network
+  - Learning process: Forward pass, Backward pass; Gradient descent
+
+* Reading
